@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evankai
 - 👀 I’m interested in math, statistics, information theory, chess, genes, and language. 
 - 🌱 I’m currently learning time series analysis, machine learning, stochastic processes, information theory, lots of R. 
-- 💞️ I’m looking to collaborate on information theoretic analysis. 
+- 💞️ I’m looking to collaborate on machine learning projects. 
 - 📫 How to reach me: emouchard@ucsb.edu
 
 <!---
